@@ -1,6 +1,6 @@
 # MF3D
-MIDI Fighter 3D Ableton Live 11 Script
-Edited from a script for Midi Fighter 64 by padi04 available at
+MIDI Fighter 3D Ableton Live 11 Script,
+edited from a script for Midi Fighter 64 by padi04 available at
 https://github.com/padi04/MF64-Ableton-Script
 
 Installation:
