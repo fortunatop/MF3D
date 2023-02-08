@@ -25,5 +25,5 @@ Bank 3: Transport and scene: 	Right column = scene plays
 				last available buttons are metronome on/off and session record arm.
 Bank 4: Not used/available for user.
 
-By Andrés Fortunato Mankoch
+By Andrés Fortunato Mankoch,
 February 2023
