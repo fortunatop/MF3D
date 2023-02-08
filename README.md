@@ -21,7 +21,7 @@ Features:
 				Fourth row = Track arm.
 - Bank 3: Transport and scene: 	Right column = scene plays.
 				pink buttons = Scene navigation.
-				upper left buttons = rwd, loop, fwrd, stop, play and decord.
+				upper left buttons = rwd, loop, fwrd, stop, play and record.
 				last available buttons are metronome on/off and session record arm.
 - Bank 4: Not used/available for user.
 
