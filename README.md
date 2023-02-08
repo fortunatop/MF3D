@@ -15,12 +15,12 @@ That should be it.
 
 Features:
 - Bank 1: Classic launchpad operation for launching clips.
-- Bank 2: Some Mixer controller: 	First row = track stops
-				Second row = Track on/off
-				Third row = track solos
-				Fourth row = Track arm
-- Bank 3: Transport and scene: 	Right column = scene plays
-				pink buttons = Scene navigation
+- Bank 2: Some Mixer controller: 	First row = track stops.
+				Second row = Track on/off.
+				Third row = track solos.
+				Fourth row = Track arm.
+- Bank 3: Transport and scene: 	Right column = scene plays.
+				pink buttons = Scene navigation.
 				upper left buttons = rwd, loop, fwrd, stop, play and decord.
 				last available buttons are metronome on/off and session record arm.
 - Bank 4: Not used/available for user.
